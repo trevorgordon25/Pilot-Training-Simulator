@@ -1,13 +1,6 @@
 # Pilot-Training-Simulator
 A custom pilot training simulator built with Python, C, and PyQt — reducing aviation training costs by replicating real-world flight routes and live data for a methane detection company.
 
-
-# Pilot Training Simulator
-
-A cost-effective pilot training simulator developed for a local methane 
-detection company to reduce the high operational costs of onboarding 
-new pilots.
-
 ## Overview
 Training pilots in real aircraft is expensive. This simulator replicates 
 the company's actual flight routes and missions, allowing new pilots to 
