@@ -27,4 +27,4 @@ transition from simulator to real operations is as seamless as possible.
 - Microsoft Flight Simulator SDK
 
 ## Status
-🚧 Currently in active development
+- Currently in active development
